@@ -6,10 +6,10 @@ edition = "2021"
 
 [dependencies]
 
-pingora-core = { version = "0.4.0" }
-pingora-proxy = { version = "0.4.0" }
-pingora-load-balancing = { version = "0.4.0" }
-pingora-http = { version = "0.4.0" }
+pingora-core = { version = "0.3" }
+pingora-proxy = { version = "0.3" }
+pingora-load-balancing = { version = "0.3" }
+pingora-http = { version = "0.3" }
 async-trait = { version = "0.1.83" }
 log = { version = "0.4.22" }
 env_logger = { version = "0.11.5" }
